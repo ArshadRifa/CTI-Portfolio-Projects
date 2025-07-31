@@ -1,4 +1,4 @@
-# CTI-Portfolio-Projects
+## CTI-Portfolio-Projects
 Welcome to my **Cyber Threat Intelligence (CTI)** project portfolio. This repository showcases practical assignments, reports, and analysis I have conducted as part of my transition into the cybersecurity field — with a strong focus on CTI.
 
 ## Goals
@@ -6,6 +6,12 @@ Welcome to my **Cyber Threat Intelligence (CTI)** project portfolio. This reposi
 - Continue expanding this portfolio with IOC enrichment, research, malware campaign analysis, and threat intel briefs.
 - Contribute meaningfully to the CTI community and grow into a full-time CTI analyst role.
 
+## Tools & Frameworks Used
+- MITRE ATT&CK Navigator
+- VirusTotal, Shodan (for IOC enrichment)
+- TryHackMe
+
+ 
 ## Proects (continued list)
 [Threat Actor Profiling]
 - Researched nation-state threat actor - APT28 etc...
