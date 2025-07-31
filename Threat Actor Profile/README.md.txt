@@ -6,9 +6,9 @@ A threat actor profile provides in-depth information about the individuals or gr
 APT28 (Fancy Bear)- Russian state-sponsored threat actor targeting military and political entities 
 (Additional threat actor profiles will be added over time)
 
-Tools & Sources Used
-- **MITRE ATT&CK Navigator** – For mapping TTPs
-- **VirusTotal**, **Shodan**, **Hybrid Analysis** – For IOC enrichment
-- **Malpedia**, **Mandiant**, **Secureworks**, **Kaspersky Securelist** – For OSINT threat actor research
-- **TryHackMe** - lab 'APT28 Inception Theory'
+# Tools & Sources Used
+- MITRE ATT&CK Navigator – For mapping TTPs
+- VirusTotal, Shodan, Hybrid Analysis – For IOC enrichment
+- Malpedia, Mandiant, Secureworks, Kaspersky Securelist – For OSINT threat actor research
+- TryHackMe - lab 'APT28 Inception Theory'
 
