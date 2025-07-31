@@ -10,6 +10,5 @@ APT28 (Fancy Bear)- Russian state-sponsored threat actor targeting military and 
 - MITRE ATT&CK Navigator – For mapping TTPs
 - VirusTotal, Shodan, Hybrid Analysis – For IOC enrichment
 - Malpedia, Mandiant, Secureworks, Kaspersky Securelist – For OSINT threat actor research
-
 - TryHackMe - lab 'APT28 Inception Theory'
 
