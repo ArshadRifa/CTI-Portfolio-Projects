@@ -1,0 +1,5 @@
+Threat actor behaviour analysis helps organisations to proactively defend their IT infrastructure. Sharing these findings (IoCs) with the cybersecurity community will enable the community to be aware of the threat actors' mode of operation before they reach their next target. 
+This document focuses on APT28, a well-known and active threat actor group, and explores how APT28 operates, its objectives, and the techniques it uses, mapped to the MITRE Attack framework.
+The report begins with a brief introduction to how a typical APT operates. Then dive into the background and history of APT28, victimology- target domains, regions, and industries. The latter half of this document details the TTPs and campaigns carried out by the threat group. The document concludes with IoC- known indicators, sharing the all-important findings to thwart the next attack.
+
+
