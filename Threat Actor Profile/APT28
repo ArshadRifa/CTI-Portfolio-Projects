@@ -1,8 +1,8 @@
-Intorduction 
+# Intorduction 
 Threat actor behaviour analysis helps organisations to proactively defend their IT infrastructure. Sharing these findings (IoCs) with the cybersecurity community will enable the community to be aware of the threat actors' mode of operation before they reach their next target. This document focuses on APT28, a well-known and active threat actor group, and explores how APT28 operates, its objectives, and the techniques it uses, mapped to the Cyber Kill Chain framework.
  This document begins with a brief introduction to how a typical APT operates. Then dive into the background and history of APT28, victimology- target domains, regions, and industries. The latter half of this document details the TTPs and campaigns carried out by the threat group. The document concludes with IoC- known indicators, sharing the all-important findings to thwart the next attack.
 
-About APT's
+## About APT's
 Advanced Persistent Threats (APTs) are well-organized groups—often state-sponsored—focused on long-term infiltration of specific targets. Unlike typical cybercriminals looking for quick financial gain, APT actors aim to quietly steal sensitive data, conduct espionage, or disrupt critical systems. They rely on reconnaissance, social engineering, and custom-built malware to bypass security and maintain persistent access. Their operations are methodical, stealthy, and designed to remain undetected for extended periods—posing a serious risk to both governments and private sectors.
 
 History - APT28 
