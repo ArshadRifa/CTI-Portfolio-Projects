@@ -1,5 +1,5 @@
 ## CTI-Portfolio-Projects
-Welcome to my **Cyber Threat Intelligence (CTI)** project portfolio. This repository showcases practical assignments, reports, and analysis I have conducted as part of my transition into the cybersecurity field — with a strong focus on CTI.
+Welcome to my **Cyber Threat Intelligence (CTI)** project portfolio. This repository showcases practical assignments, reports, and analysis I have conducted with a strong focus on CTI.
 
 ## Goals
 - Apply CTI concepts in real-world threat detection and intelligence.
