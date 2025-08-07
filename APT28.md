@@ -109,7 +109,7 @@ Table: APT28 Tactics, Techniques, and Procedures [(Sam, 2024\)](https://www.zote
 
 ### Tools used by APT28
 
-Sofacy employs a diverse range of tools in its cyberespionage operations. These tools include Cannon, certutil, Computrace, CORESHELL, DealersChoice, Downdelph, Drovorub, Foozer, GooseEgg, Graphite, Headlace, HIDEDRV, Impacket, JHUHUGIT, Koadic, Komplex, LoJax, MASEPIE, Mimikatz, Nimcy, OCEANMAP, OLDBAIT, PocoDown, ProcDump, PythocyDbg, Responder, Sedkit, Sedreco, SkinnyBoy, SMBExec, STEELHOOK, USBStealer, VPNFilter, Winexe, WinIDS, X-Agent, X-Tunnel and Zebrocy . [(Cyble, 2025\)](https://www.zotero.org/google-docs/?meho98)
+APT28 employs a diverse range of tools in its cyberespionage operations. These tools include Cannon, certutil, Computrace, CORESHELL, DealersChoice, Downdelph, Drovorub, Foozer, GooseEgg, Graphite, Headlace, HIDEDRV, Impacket, JHUHUGIT, Koadic, Komplex, LoJax, MASEPIE, Mimikatz, Nimcy, OCEANMAP, OLDBAIT, PocoDown, ProcDump, PythocyDbg, Responder, Sedkit, Sedreco, SkinnyBoy, SMBExec, STEELHOOK, USBStealer, VPNFilter, Winexe, WinIDS, X-Agent, X-Tunnel and Zebrocy . [(Cyble, 2025\)](https://www.zotero.org/google-docs/?meho98)
 
 ### Exploited Vulnerabilities 
 
